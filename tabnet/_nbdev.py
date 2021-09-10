@@ -2,16 +2,10 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"path": "00_core.ipynb",
-         "df": "00_core.ipynb",
-         "cat_names": "00_core.ipynb",
-         "cont_names": "00_core.ipynb",
-         "get_emb_sz": "00_core.ipynb",
+index = {"get_emb_sz": "00_core.ipynb",
          "emb_sz_rule": "00_core.ipynb",
-         "splits": "00_core.ipynb",
-         "procs": "00_core.ipynb",
-         "y_names": "00_core.ipynb",
-         "y_block": "00_core.ipynb",
+         "create_explain_matrix": "00_core.ipynb",
+         "make_dl": "00_core.ipynb",
          "to": "00_core.ipynb",
          "dls": "00_core.ipynb",
          "emb_szs": "00_core.ipynb",
